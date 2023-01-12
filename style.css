@@ -64,3 +64,9 @@ body {
     width: 300px;
   }
 }
+
+@media screen and (max-width: 387px) {
+  .display {
+    width: 240px;
+  }
+}
